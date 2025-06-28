@@ -1,0 +1,8 @@
+22:32:07.538 [com.example.logging.LoggingExample.main()] ERROR com.example.logging.LoggingExample - This is an error message
+22:32:07.538 [com.example.logging.LoggingExample.main()] WARN  com.example.logging.LoggingExample - This is a warning message
+22:46:56.914 [com.example.logging.LoggingExample.main()] ERROR com.example.logging.LoggingExample - This is an error message
+22:46:56.918 [com.example.logging.LoggingExample.main()] WARN  com.example.logging.LoggingExample - This is a warning message
+22:47:53.636 [com.example.logging.LoggingExample.main()] ERROR com.example.logging.LoggingExample - This is an error message
+22:47:53.642 [com.example.logging.LoggingExample.main()] WARN  com.example.logging.LoggingExample - This is a warning message
+22:48:26.467 [com.example.logging.ParameterizedLogging.main()] INFO  c.e.logging.ParameterizedLogging - User John is 30 years old
+22:49:08.346 [com.example.logging.AppenderExample.main()] INFO  com.example.logging.AppenderExample - Logging to both console and file using appenders

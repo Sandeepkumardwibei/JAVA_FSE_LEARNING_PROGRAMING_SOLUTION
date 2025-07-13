@@ -1,1 +1,0 @@
-// Department bean with validation

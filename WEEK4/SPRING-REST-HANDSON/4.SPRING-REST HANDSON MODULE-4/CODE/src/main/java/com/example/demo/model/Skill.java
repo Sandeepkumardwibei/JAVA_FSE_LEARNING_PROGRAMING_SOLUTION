@@ -1,1 +1,0 @@
-// Skill bean with validation

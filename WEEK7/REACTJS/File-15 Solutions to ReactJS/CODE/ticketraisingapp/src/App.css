@@ -1,0 +1,22 @@
+/* src/App.css */
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.heading {
+  color: red;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+input, textarea {
+  width: 200px;
+  padding: 5px;
+  margin: 5px;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}

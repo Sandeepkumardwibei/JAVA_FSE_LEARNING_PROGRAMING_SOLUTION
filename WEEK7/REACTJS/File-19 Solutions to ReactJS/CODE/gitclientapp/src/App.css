@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 40px;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+li {
+  margin: 8px 0;
+  font-size: 18px;
+}
